@@ -1,0 +1,14 @@
+.center{
+
+    position: relative;
+    color: white;
+    font-family: 'Fjalla One', sans-serif;
+
+}
+.plr-3{
+
+    width: 30%;
+    padding-left: 2px;
+    padding-right: 2px;
+    margin: 2px;
+}
